@@ -22,7 +22,7 @@ The owner canceled the matching job, preserved the installer copies, and used th
 | Author and copyright holder | 46n |
 | GitHub owner | 46n |
 | Initial research | November 25, 2026 |
-| Initial publication | Pending. Record the date at public release. |
+| Initial publication | November 25, 2026 |
 | Last updated | November 25, 2026 |
 | Research scope | One affected Huawei Windows 11 laptop |
 | Verification | Defender Normal with real-time protection before the last restart. Targeted checks found the active product footprint absent after one later normal restart. |
